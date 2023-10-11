@@ -1,0 +1,4 @@
+Log {
+    border: solid white;
+    overflow-x: hidden;
+}
